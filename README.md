@@ -2,9 +2,11 @@
 
 存放上課作業給同學們參考
 
+
+
 |  hw    | content  |
 |  ----  | ----  |
-|  hw0   | Multiplication of Polynomial Texts 、 Movie Data Analysis |
+|  hw0   | Multiplication of Polynomial Texts 、 Movie Data Analysis  by 嘉宏|
 |  hw1   | Movie Data Analysis with Pandas 、 In‐Game Purchase Data Analysis 、 K‐means   |
 |  hw2   | K-nn 、 DBscan 、 Numpy |
 |  hw3   | ID3 |
